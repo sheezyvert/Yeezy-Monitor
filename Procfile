@@ -1,1 +1,1 @@
-web: python yeezy.py
+worker: python yeezy.py
